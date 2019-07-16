@@ -1,5 +1,5 @@
 {application,greet_everyone,
-             [{applications,[kernel,stdlib,elixir,logger,earmark,ex_doc]},
+             [{applications,[kernel,stdlib,elixir,logger]},
               {description,"greet_everyone"},
               {modules,['Elixir.Anagram','Elixir.GreetEveryone',
                         'Elixir.Greeter']},
